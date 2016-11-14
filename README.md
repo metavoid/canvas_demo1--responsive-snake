@@ -2,7 +2,7 @@
 Responsive psychedelic snake game created with canvas API.
 You can change look of everything during the game and relax your mind.
 Number of cells is adjusted to fit to any screen. 
-And you can play with all options in main.js to change speed of the snake and cel size.
+And you can play with all options in main.js to change speed of the snake and cell size.
 
 
 
