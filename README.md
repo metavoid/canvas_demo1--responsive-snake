@@ -6,7 +6,7 @@ And you can play with options in main.js to change speed of the snake and cell s
 
 
 
-<--- <a href="https://metavoid.github.io/canvas_demo1--responsive-snake/"> TRY IT NOW </a> --->
+<a href="https://metavoid.github.io/canvas_demo1--responsive-snake/"><---  TRY IT NOW ---></a>
 
 
 
@@ -31,4 +31,4 @@ ENTER - fullscreen mode toggle
 
 
 
-<--- <a href="https://metavoid.github.io/canvas_demo1--responsive-snake/"> TRY IT NOW </a> --->
+<a href="https://metavoid.github.io/canvas_demo1--responsive-snake/"><---  TRY IT NOW ---></a>
