@@ -22,7 +22,7 @@ ARROWS - turn snake
 
 CTRL - change all colors randomly to invoke psy-effect
 
-SPACE - pause game
+SPACE - pause/resume game
 
 ENTER - fullscreen mode toggle
 
