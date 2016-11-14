@@ -1,6 +1,6 @@
 # canvas_demo_1--responsive-snake
 Responsive psychedelic snake game created with canvas API.
-You can change look of everything during game and relax your mind.
+You can change look of everything during the game and relax your mind.
 
 --UNDER CONSTRUCTION--
 No score, replay, gameover, ui, settings modals, etc for now.
